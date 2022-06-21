@@ -1,0 +1,6 @@
+[flake8]
+# E203 whitespace-before (for Black)
+# E501 ignore line length (use pylint)
+# W504 line break after binary operator (for Black)
+extend-ignore = E203,E501,W504
+exclude = .git,__pycache__,.config,venv,.venv,.autovenv
