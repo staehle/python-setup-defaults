@@ -1,3 +1,7 @@
+# Jake Staehle's Pylint Defaults
+# VERSION 1
+# Has the most sane defaults to be used in conjunction with Black & Flake8
+# Don't like it? Don't use it.
 [MASTER]
 
 # A comma-separated list of package or module names from where C extensions may
